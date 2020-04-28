@@ -1,0 +1,9 @@
+C:\Users\aftoro\Documents\Projects\NetCore\net-core-playground\Models\bin\Debug\netcoreapp2.2\Models.deps.json
+C:\Users\aftoro\Documents\Projects\NetCore\net-core-playground\Models\bin\Debug\netcoreapp2.2\Models.dll
+C:\Users\aftoro\Documents\Projects\NetCore\net-core-playground\Models\bin\Debug\netcoreapp2.2\Models.pdb
+C:\Users\aftoro\Documents\Projects\NetCore\net-core-playground\Models\obj\Debug\netcoreapp2.2\Models.csprojAssemblyReference.cache
+C:\Users\aftoro\Documents\Projects\NetCore\net-core-playground\Models\obj\Debug\netcoreapp2.2\Models.csproj.CoreCompileInputs.cache
+C:\Users\aftoro\Documents\Projects\NetCore\net-core-playground\Models\obj\Debug\netcoreapp2.2\Models.AssemblyInfoInputs.cache
+C:\Users\aftoro\Documents\Projects\NetCore\net-core-playground\Models\obj\Debug\netcoreapp2.2\Models.AssemblyInfo.cs
+C:\Users\aftoro\Documents\Projects\NetCore\net-core-playground\Models\obj\Debug\netcoreapp2.2\Models.dll
+C:\Users\aftoro\Documents\Projects\NetCore\net-core-playground\Models\obj\Debug\netcoreapp2.2\Models.pdb

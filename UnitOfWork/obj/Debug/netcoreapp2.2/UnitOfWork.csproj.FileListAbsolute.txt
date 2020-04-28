@@ -1,0 +1,14 @@
+C:\Users\aftoro\Documents\Projects\NetCore\net-core-playground\UnitOfWork\bin\Debug\netcoreapp2.2\UnitOfWork.deps.json
+C:\Users\aftoro\Documents\Projects\NetCore\net-core-playground\UnitOfWork\bin\Debug\netcoreapp2.2\UnitOfWork.dll
+C:\Users\aftoro\Documents\Projects\NetCore\net-core-playground\UnitOfWork\bin\Debug\netcoreapp2.2\UnitOfWork.pdb
+C:\Users\aftoro\Documents\Projects\NetCore\net-core-playground\UnitOfWork\bin\Debug\netcoreapp2.2\Models.dll
+C:\Users\aftoro\Documents\Projects\NetCore\net-core-playground\UnitOfWork\bin\Debug\netcoreapp2.2\NetCorePlayground.Repositories.dll
+C:\Users\aftoro\Documents\Projects\NetCore\net-core-playground\UnitOfWork\bin\Debug\netcoreapp2.2\NetCorePlayground.Repositories.pdb
+C:\Users\aftoro\Documents\Projects\NetCore\net-core-playground\UnitOfWork\bin\Debug\netcoreapp2.2\Models.pdb
+C:\Users\aftoro\Documents\Projects\NetCore\net-core-playground\UnitOfWork\obj\Debug\netcoreapp2.2\UnitOfWork.csprojAssemblyReference.cache
+C:\Users\aftoro\Documents\Projects\NetCore\net-core-playground\UnitOfWork\obj\Debug\netcoreapp2.2\UnitOfWork.csproj.CoreCompileInputs.cache
+C:\Users\aftoro\Documents\Projects\NetCore\net-core-playground\UnitOfWork\obj\Debug\netcoreapp2.2\UnitOfWork.AssemblyInfoInputs.cache
+C:\Users\aftoro\Documents\Projects\NetCore\net-core-playground\UnitOfWork\obj\Debug\netcoreapp2.2\UnitOfWork.AssemblyInfo.cs
+C:\Users\aftoro\Documents\Projects\NetCore\net-core-playground\UnitOfWork\obj\Debug\netcoreapp2.2\UnitOfWork.csproj.CopyComplete
+C:\Users\aftoro\Documents\Projects\NetCore\net-core-playground\UnitOfWork\obj\Debug\netcoreapp2.2\UnitOfWork.dll
+C:\Users\aftoro\Documents\Projects\NetCore\net-core-playground\UnitOfWork\obj\Debug\netcoreapp2.2\UnitOfWork.pdb
